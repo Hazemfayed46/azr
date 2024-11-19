@@ -1,0 +1,10 @@
+[
+    {
+        "id": "12345",
+        "username": "exampleUser",
+        "user_uu": "uuValue",
+        "user": "uuValue",
+        "gmail": "example@gmail.com",
+        "password": "password123"
+    }
+]
